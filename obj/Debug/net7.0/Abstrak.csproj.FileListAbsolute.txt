@@ -1,0 +1,15 @@
+E:\Pemograman\Abstrak\bin\Debug\net7.0\Abstrak.exe
+E:\Pemograman\Abstrak\bin\Debug\net7.0\Abstrak.deps.json
+E:\Pemograman\Abstrak\bin\Debug\net7.0\Abstrak.runtimeconfig.json
+E:\Pemograman\Abstrak\bin\Debug\net7.0\Abstrak.dll
+E:\Pemograman\Abstrak\bin\Debug\net7.0\Abstrak.pdb
+E:\Pemograman\Abstrak\obj\Debug\net7.0\Abstrak.csproj.AssemblyReference.cache
+E:\Pemograman\Abstrak\obj\Debug\net7.0\Abstrak.GeneratedMSBuildEditorConfig.editorconfig
+E:\Pemograman\Abstrak\obj\Debug\net7.0\Abstrak.AssemblyInfoInputs.cache
+E:\Pemograman\Abstrak\obj\Debug\net7.0\Abstrak.AssemblyInfo.cs
+E:\Pemograman\Abstrak\obj\Debug\net7.0\Abstrak.csproj.CoreCompileInputs.cache
+E:\Pemograman\Abstrak\obj\Debug\net7.0\Abstrak.dll
+E:\Pemograman\Abstrak\obj\Debug\net7.0\refint\Abstrak.dll
+E:\Pemograman\Abstrak\obj\Debug\net7.0\Abstrak.pdb
+E:\Pemograman\Abstrak\obj\Debug\net7.0\Abstrak.genruntimeconfig.cache
+E:\Pemograman\Abstrak\obj\Debug\net7.0\ref\Abstrak.dll
