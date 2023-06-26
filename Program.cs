@@ -11,22 +11,17 @@ namespace Abstrak
     {
         static void Main(string[] args)
         {
-            Printer epson = new Epson();
-            Printer canon = new Canon();
-            Printer laserjet = new Laserjett();
+            Printer epson = new printers();
+            Printer canon = new printers();
+            Printer laserjet = new printers();
 
-            epson.merek = "Epson";
-            epson.dimension = "10 x 11";
-            canon.merek = "Canon";
-            canon.dimension = "9.5 x 12";
-            laserjet.merek = "LaserJet";
-            laserjet.dimension = "12 x 12";
-
-            Console.WriteLine("Beberapa printer yang online");
+            epson.merk = "Epson";            
+            canon.merk = "Canon";
+            laserjet.merk = "LaserJet";
+            Console.WriteLine("Pilih printer");
             Console.WriteLine("1. Epson");
             Console.WriteLine("2. Canon");
             Console.WriteLine("3. LaserJet");
-
             Console.Write("\nPilih printer : ");
             int pilih = Convert.ToInt32(Console.ReadLine());
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Pemograman\\Abstrak\\Abstrak.csproj": {}
+    "E:\\jokian\\rifka\\Abstrak\\Abstrak.csproj": {}
   },
   "projects": {
-    "E:\\Pemograman\\Abstrak\\Abstrak.csproj": {
+    "E:\\jokian\\rifka\\Abstrak\\Abstrak.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Pemograman\\Abstrak\\Abstrak.csproj",
+        "projectUniqueName": "E:\\jokian\\rifka\\Abstrak\\Abstrak.csproj",
         "projectName": "Abstrak",
-        "projectPath": "E:\\Pemograman\\Abstrak\\Abstrak.csproj",
+        "projectPath": "E:\\jokian\\rifka\\Abstrak\\Abstrak.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\Pemograman\\Abstrak\\obj\\",
+        "outputPath": "E:\\jokian\\rifka\\Abstrak\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

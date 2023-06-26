@@ -8,7 +8,7 @@ namespace Abstrak
 {
     public abstract class Printer
     {
-        public string merek { get; set; }
+        public string merk { get; set; }
         public string dimension { get; set; }
 
         public abstract void show();
